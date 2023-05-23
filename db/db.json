@@ -159,5 +159,33 @@
 		"sale": true,
 		"img": "https://cdn1.ozone.ru/multimedia/c400/1023547851.jpg",
 		"category": "Игры и софт"
+	},
+	{
+		"title": "Смартфон Tecno POP 5 LTE 2/32 ГБ, голубой",
+		"price": 4962,
+		"sale": true,
+		"img": "https://ir.ozone.ru/s3/multimedia-0/wc700/6638823888.jpg",
+		"category": "Смартфоны"
+	},
+	{
+		"title": "Смартфон realme C33 4/128 ГБ, синий",
+		"price": 14990,
+		"sale": false,
+		"img": "https://ir.ozone.ru/s3/multimedia-7/wc700/6641122063.jpg",
+		"category": "Смартфоны"
+	},
+	{
+		"title": "Смартфон Apple iPhone 12 eSIM+Nano Sim 128 ГБ, черный",
+		"price": 49328,
+		"sale": true,
+		"img": "https://ir.ozone.ru/s3/multimedia-o/wc700/6544513236.jpg",
+		"category": "Смартфоны"
+	},
+	{
+		"title": "Смартфон Vivo T1 6/128 ГБ, голубой",
+		"price": 22999,
+		"sale": false,
+		"img": "https://ir.ozone.ru/s3/multimedia-q/wc700/6373813838.jpg",
+		"category": "Смартфоны"
 	}]
 }

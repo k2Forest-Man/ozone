@@ -16,7 +16,7 @@ export default function addCardItem() {
       showPrice();
 
       const removeBtn = cardClone.querySelector(".btn");
-      removeBtn.textContent = "Delete Item";
+      removeBtn.textContent = "Удалить товар";
       removeBtn.addEventListener("click", () => {
         cardClone.remove();
         showData();
