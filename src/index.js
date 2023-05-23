@@ -1,5 +1,3 @@
-"use strict";
-
 import getData from "./modules/getData";
 import renderCards from "./modules/renderCards";
 import renderCatalog from "./modules/renderCatalog";

@@ -1,0 +1,24 @@
+{
+  "name": "ozone",
+  "version": "1.0.0",
+  "description": "��#\u0004G\u00045\u00041\u0004=\u0004K\u00049\u0004 \u0000?\u0004@\u0004>\u00045\u0004:\u0004B\u0004 \u00008\u0004=\u0004B\u00045\u0004@\u0004=\u00045\u0004B\u0004 \u0000<\u00040\u00043\u00040\u00047\u00048\u0004=\u00040\u0004 \u0000O\u0000-\u0000Z\u0000O\u0000N\u0000E\u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k2Forest-Man/ozone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k2Forest-Man/ozone/issues"
+  },
+  "homepage": "https://github.com/k2Forest-Man/ozone#readme",
+  "devDependencies": {
+    "webpack": "^5.83.1",
+    "webpack-cli": "^5.1.1"
+  }
+}
